@@ -1,4 +1,4 @@
-
+```markdown
 # Applications
 
 - Water quality testing
